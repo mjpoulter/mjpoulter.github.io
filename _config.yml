@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mike Poulter's musings
+title: Mike's Musings
 author: Mike Poulter
 email: mike.poulter.prof@gmail.com
 linkedin_username: poultermike
