@@ -11,3 +11,4 @@ categories: jekyll update
  More to come as i get used to this was of posting and get into a rhythm with my thought snippets. (im also editing a few things as i have had "feedback" by certain family members with a marketing background :) )
 
  Addendum: Cognition snapping up the remains of Windsurf, announced today.
+ {% include comments.html %}
