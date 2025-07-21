@@ -21,4 +21,7 @@ On a related AWS note i discovered that they opensourced their postgres replicat
 
 Still thinking about the right cadence for these sort of postings going forward. Inside a firm its easy to just post quick snippets as they come to mind, or to give in the moment opinion on news. For some reason this feels a little more formal with a need to carve out some time to do it. Hence the Saturday morning(West Coast) post this week. No doubt i'll figure out a rythmn after a few weeks.
 
+ps. Finally got a chance to read the paper from METR that has been quoted a bunch the last few weeks about AI slowing down developers rather than speeding them up.. which ironically tends to imply that the value isnt actually in a greenfield setting.. but rather in brownfield where AI can help in understanding..
+https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+
 {% include comments.html %}
