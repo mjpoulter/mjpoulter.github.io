@@ -11,26 +11,25 @@ On that note, most of the early push as been around creation and modification of
 
  The current sets of tools dont really address the space very well, or they take a lot of adapting, which means that more effort has to be put into implementing them to reap the benefit. And in my experience, understanding in context is a real value add, and unlike generation, has few downsides. ie if the output isnt 100% accurate it doesnt matter, because human recollection isnt 100% accurate in that context either. And of course understanding in context. is key to updates, modifications, transformations, reengineering etc. and not to mention creation of the full range of tests (ie not just unit tests)
 
-To that end, the announcement that caught my eye this week was from reflection.ai
-  https://reflection.ai/ 
- with their initial intro of asimov
-  https://reflection.ai/blog/introducing-asimov
-and a good rendition of their perspective on the latest no priors podcast https://www.youtube.com/watch?v=xqyy_Zs8Fgw 
+To that end, the announcement that caught my eye this week was from [reflection.ai](<https://reflection.ai/>)
+ with their initial intro of [asimov](<https://reflection.ai/blog/introducing-asimov>)
+and a good rendition of their perspective on the latest [no priors podcast ](<https://www.youtube.com/watch?v=xqyy_Zs8Fgw>)
 Definitely felt like they understand the problem space well and have an approach to solving for it.. Early days, but i like their approach.. as always.. time will tell..
 
 Ive also been trying out the cli tools this week.. most recently the google gemini code assist cli (which they've opensourced). I like it in certain situations, much like claude code.. and much like any console interaction, but i still move back to the IDE for most clean sheet creation.
 
 In other news, AWS continuing to play catchup with their Bedrock Agentcore and related annoucements, they seem to be having a hard time getting mindshare around AI in general, and so moving back to an infra approach probably makes sense for them
-https://www.aboutamazon.com/news/aws/aws-summit-agentic-ai-innovations-2025
+<https://www.aboutamazon.com/news/aws/aws-summit-agentic-ai-innovations-2025>
 
 On a related AWS note i discovered that they opensourced their postgres replication a few weeks ago 
-https://aws.amazon.com/about-aws/whats-new/2025/06/open-sourcing-pgactive-active-active-replication-extension-postgresql/.
- Good to see them giving back. 
+<https://aws.amazon.com/about-aws/whats-new/2025/06/open-sourcing-pgactive-active-active-replication-extension-postgresql/>.
+
+Good to see them giving back. 
 
 Still thinking about the right cadence for these sort of postings going forward. Inside a firm its easy to just post quick snippets as they come to mind, or to give in the moment opinion on news. For some reason this feels a little more formal with a need to carve out some time to do it. Hence the Saturday morning(West Coast) post this week. No doubt i'll figure out a rythmn after a few weeks.
 
 ps. Finally got a chance to read the paper from METR that has been quoted a bunch the last few weeks about AI slowing down developers rather than speeding them up.. which ironically tends to imply that the value isnt actually in a greenfield setting.. but rather in brownfield where AI can help in understanding..
 
-https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+<https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/>
 
 {% include comments.html %}
