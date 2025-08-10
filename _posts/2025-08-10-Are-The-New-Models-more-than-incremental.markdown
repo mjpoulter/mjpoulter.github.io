@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "New model releases - leaps or incremental"
+date:   2025-08-10
+categories: jekyll update
+---
+Lots of fanfare this week around GPT5. Full Apple release treatment, but beyond all the hype the initial feedback has been a little underwhelming with most folks feeling that while the model is mostly an improvement, its not a major leap, and more a catch up to models like Claude Opus 4.1, which was sneakily released earlier in the week. <https://www.anthropic.com/news/claude-opus-4-1>
+
+It seems like the hype is necessary to keep supporting the needs for further investment. Altman went on CNBC to start selling the thesis that an Amazon like approach was needed in the short term.. ie keep investing heavily for the future and be prepared to lose money in the meantime. At some point that will start to wear thin i think. But for now (some) folks are continuing to buy the thesis that LLMs will lead to AGI with sufficient investment, not withstanding the sceptics who think the current models will never get there. (Gary Marcus, supported by Apple and now Arizona State University research). <https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming>
+
+In the world of software development, the models, if used appropriately, clearly do add value. The space seems sufficiently well structured to be in the sweet spot for LLMs, and incremental improvements will continue to allow agentic flows to be more useful. In this space another question, repeated this week was whether the startups can survive given they all seem to have low or negative margins. Especially as OpenAI and Anthropic seem to want some of that revenue. The question becomes then are there open models that get good enough that folks like cursor, replit etc can leverage them and run the open models themselves, optimizing their inference costs, maybe even raising their prices a little to get to reasonable margins. Seems to be the only way forward for them, maybe partnering with folks producing open models like Mistral, Meta, etc. I guess time will tell. <https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/>
+
+For now my feeling is that there is still a lot of work outside the models themselves to effectively integrate them into tooling that is effective in the enterprise, for mainstream software development. Including guarding against the potential security issues that come with agents and mcp servers etc. I'd like to see more focus there, than the hype around scaling big models and building out datacenter infractstructure. More meat on the bones will lead to more enduring value i think and more sticky revenue for tools builders who can differentiate. At the moment its mostly "me too".  Github Copilot is still the reference tool for most enterprises, but there is much room for improvement and opportunity to do more, but it has to be more than just incremental to get folks to switch. Still lots of focus and investment, we'll see if anyone breaks out and is profitable.
+
+
+{% include comments.html %}
