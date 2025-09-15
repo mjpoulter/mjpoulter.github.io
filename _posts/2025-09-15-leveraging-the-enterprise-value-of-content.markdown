@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Reinforcement learning leveraging enterprise content"
+date:   2025-09-15
+categories: jekyll update
+---
+
+Last week i was musing on the value of content and this week i think there is an interesting extension of that for enterprises in concert with improving the tools they use.. eg software development tools.
+
+There is a move in the LLM foundational model world to place a bigger emphasis on reinforcement learning, post initial training, which is leading to a shift from data labelling, (X.ai reduced its data labelling team last week) to experts that can create high-quality data and assess the quality of the model output for difficult tasks. In the same vein there have been rumors that folks like anysphere, the builders of cursor, are exploring selling their telemetry data to the foundational model companies (and leveraging it themselves to tune their own smaller models) as a potential revenue stream, given it is in some real sense feedback on the model output (ie what is accepted, rejected, modified). And of course if you are a free tier user you are now the product, not unreasonably, exchanging your knowledge for use of the product.
+
+So how does this play in the enterprise, especially in the context of software development, though it clealry applies to other fields. Enterprises are usually not using public versions of these tools or public endpoints of the LLMs behind the tools, wanting to protect their IP and prevent other information leakage. But of course they are incented to see the tools and models improve so as to be more effective. Enterprises could use open models and open tools and run that feedback loop themselves, or work with a model provider focused on the particular space, in a tailored way (eg poolside). While applicable for some use cases, it feels too bespoke for general use cases like software development. It seems like there is an opportunity for tool providers to work with an enterprise user to be able to take some form of filtered/anonymized telemetry and context/instruction/spec type data and use it to expand and improve the tools capabilities and use it for reinforcement (or perhaps distillation/fine tuning for coding focused instances of models). Perhaps enterprises that participate in this way get a discount on their usage fees as well, and/or early/continuous access to the improved capabilities, but it seems like there is a virtuous cycle opportunity here.?
+
+Companies that figure this out will have a sticky advantage, because once this loops is validated and embedded, it becomes a barrier to entry for competitors, unless of course it gets standardized/opensourced, which would be an enterprise goal. Still the companies doing it best will still have an edge and the more data they get the better the product will become. It gives and advantage to enterprise focused folks like github, aws, google and so anysphere/cursor and other startups probably want to attack the opportunity first. If they dont i expect anthropic and openai will be go there themselves and so claude code and codex will disintermediate cursor etc. It will be interesting to see if this opportunity develops further, or if enterprises will be too reluctant to participate? I would, but others perhaps wont.
+
+{% include comments.html %}
