@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Davos and Readiness"
+date:   2026-01-26
+categories: jekyll update
+---
+Last week was all about Davos. I was hoping there might be some meaningful new discussions, but there werent really. One interview with Andy Jassy showed him to be somewhat more confident/comfortable with where Amazon/AWS find themselves, but it wasnt really too revealing beyond that.
+More mudslinging between Altman and Musk, but nothing new there either. So a week of posturing and positioning but mostly rehashing of previously understood positions, in an upscale ski resort.
+
+On other news i think vendors are starting to understand that they need to do more to get folks into a better place for adoption, which fits with my perspective, so potentially some confirmation bias there around what im reading. An example i came across this week was a post from the folks at Factory, talking about readiness for agenticAI for software development. <https://factory.ai/news/agent-readiness>. I think we need more companies thinking along these lines and producing tools to evaluate and help enterprises progress to a point where they are ready to adopt. And of course you have to be able to measure the righ things to ensure that you are making progress, which is the other aspect that isnt in place in the right way in many places.
+
+Maybe this progress in the small gets us able to move forward while the big powers posture!
+
+{% include comments.html %}
