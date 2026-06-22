@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Fable - whats the DR plan for a government order"
+date:   2026-06-22
+categories: jekyll update
+---
+The news over the last couple of weeks that has had the headlines (besides the Space/X IPO and then turning into a GPU provider and cementing their deal to buy Cursor!) is the export license order that hit Anthropic that limited their ability to serve the model to other than US citizens in the US (including their own employees) that effectively forced them to withdraw the model from availability. There was a backstory of Andy Jassy lobbying for the model to be taken down due to some jailbreak that allowed access to its features and bypassed the safeguards that forced offensive cyber queries to route to Opus. But the government stepping in an actually restricting access to the model is unprecented in recent times. Export restrictions on hardware has become commonplace, but restrictions on software and services (outside of pariah states) is something that hasn't really happened since the end of the cold war, as far as i can remember. This brings the geopolitical risks of the continued access to model capabilities to the fore. As Corey Quinn of the duckbill group commented, its hard to have a DR plan for a government or court order to take down access to a model.
+
+Folks pointed to the need to have more adoption of open models as a defense, but its not clear that buys total insulation. Its entirely possible that the government could put import restrictions on non-US open models. Or any other model for that matter. So we are now in a new world where the potential for further government intervention and regulation is real, and countries are now going to be increasingly focused on sovereign AI capabilities. This will be an increasing focus for the next few months, and will clearly impact the openai and anthropic IPO's.
+
+Much to watch.
+
+{% include comments.html %}
