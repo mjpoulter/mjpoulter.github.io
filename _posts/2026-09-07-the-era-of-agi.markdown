@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the era of AGI"
+title:  "The era of AGI"
 date:   2026-09-07
 categories: jekyll update
 ---
